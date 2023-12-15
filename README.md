@@ -12,7 +12,7 @@ Make sure you have Node.js installed on your machine. You can download it from [
 2. open terminal
 3. cd{Folder name}
 4. npm run dev
-5. Ctrl+Click the link to open the Website
+5. Copy the link and use in Postman/any Suitable software
 
 
 ###images
